@@ -4,6 +4,9 @@ Segundo proyecto para el curso Modelación y Computación Gráfica para Ingenier
 
 Consiste en un juego en 3D creado con Python y OpenGL, acerca de un cubo de hielo que se desliza por un tobogán. Busca mostrar el uso de transformaciones, texturas, mallas de polígonos, shaders y curvas, entre otras funcionalidades 3D de OpenGL. Todos los elementos en la carpeta 'gráfica' fueron provistos por el profesor del curso Daniel Calderón.
 
+### Importante
+water_slide.py utiliza openmesh para su funcionamiento, es necesario instalarlo para ejecutar el programa.
+
 ### Métodos de ejecución:
 - python displacement_view.py
 
@@ -24,6 +27,10 @@ Ejecuta el juego, N es la cantidad de obstáculos en total que posicionar a lo l
 Second project for the Modeling and Computer Graphics for Engineers course at the University de Chile, autumn semester, 2021.
 
 Consists of of a 3D game made with Python and OpenGL, where an ice cube moves down along a water slide. It showcases use of transformations, textures, polygon meshes and curves, among other 3D functionalities available with OpenGL. All elements inside the 'gráfica' folder were provided by the course teacher Daniel Calderón.
+
+### Important
+water_slide.py utilizes openmesh to work, it must be installed beforehand for the program to work.
+
 ### Execution methods:
 - python displacement_view.py
 
